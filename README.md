@@ -10,7 +10,7 @@ The speech and text data in Romagnol and Italian that we collected for this proj
 Additionally, we share:
 - fine-tuned weights of the best-performing models?
 - Tables with ASR and MT baseline and fine-tuned results?
-- a UI demo that implements Romagnol speech recognition (transcription) and translation (rgn2ita and ita2rgn) in real time (coming soon).
+- a UI demo that implements Romagnol speech recognition (transcription) and translation (rgn2ita and ita2rgn) (coming soon).
 
 The other resources shared in this repository are:
 1. *pre-processing_pipeline.ipynb*: the Jupyter Notebook used for pre-processing (normalize, align and segment, partition) the speech and text data in the Romagnol corpus.
